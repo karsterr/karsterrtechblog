@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+    color: black;
+    font-family: "Segoe UI", sans-serif;
+}
+
+h1.indexHeader{
+    text-align: center;
+    font-weight: bold;
+}
